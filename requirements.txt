@@ -1,0 +1,4 @@
+tensorflow
+pretty_midi
+fluidsynth
+pyfluidsynth
